@@ -82,7 +82,7 @@ src/
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone Adicionando link do repositório
     ```
 2.  **Abra em uma IDE:**
     * Abra o projeto na sua IDE Java de preferência (IntelliJ IDEA, Eclipse, VS Code com extensões Java).
