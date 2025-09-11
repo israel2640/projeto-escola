@@ -17,9 +17,9 @@ Este software foi desenvolvido como parte das atividades da disciplina de **Java
 Este projeto foi idealizado e desenvolvido pela seguinte equipe:
 
 * **Israel**
-* **Thalyta**
+* **Claudio**
 * **Airton**
-
+* **Ranikelly**
 ---
 
 ## ✨ Funcionalidades Principais
