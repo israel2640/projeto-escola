@@ -19,7 +19,7 @@ Este projeto foi idealizado e desenvolvido pela seguinte equipe:
 * **Israel**
 * **Claudio**
 * **Airton**
-* **Ranikelly**
+* **Rannikelly**
 ---
 
 ## ✨ Funcionalidades Principais
